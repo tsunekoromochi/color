@@ -13,7 +13,6 @@
 #define HEIGHT_END2   90
 #define WIDTH_END2    190
 
-a
 
 void ipr_load_ppm(unsigned char image[][WIDTH][3], const char path[]);
 void ipr_save_ppm(unsigned char image[][WIDTH][3], const char path[]);
